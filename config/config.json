@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "root",
-    "password": "@Chrisvibe070697000",
-    "database": "restaurantMenu",
-    "host": "127.0.0.1",
+    "username": "sql8759384",
+    "password": "3rZGQqP8Ce",
+    "database": "sql8759384",
+    "host": "sql8.freesqldatabase.com",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "database_test",
-    "host": "127.0.0.1",
+    "username": "sql8759384",
+    "password": "3rZGQqP8Ce",
+    "database": "sql8759384",
+    "host": "sql8.freesqldatabase.com",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "sql8759384",
+    "password": "3rZGQqP8Ce",
+    "database": "sql8759384",
+    "host": "sql8.freesqldatabase.com",
     "dialect": "mysql"
   }
 }
